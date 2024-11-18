@@ -113,7 +113,7 @@ On my own time I develop small projects.
 
 ### Specs
 ![Ryzen 5 5600X](https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Radeon RX580](https://img.shields.io/badge/AMD%20Radeon_RX580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Radeon 7600XT](https://img.shields.io/badge/AMD%20Radeon_RX580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ## What I run (non-locally)
 
